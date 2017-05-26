@@ -19,4 +19,4 @@ This is a tracking system for Agile cards.
 
 ## License
 
-See the [LICENSE](https://github.com/rashiagarwal/agileBoard/blob/master/LICENSE.md) file.
+See the [LICENSE](https://github.com/rashiagarwal/agileBoard/blob/master/LICENSE) file.
