@@ -55,7 +55,7 @@ public class Demo {
     iteration.getColumn("InProgress").setWorkInProgressLimit(13);
 
     System.out.println(System.lineSeparator() + "----- Moving third card to InProgress Column. " +
-        "It will throw exception as it is beyond the column limit -----");
+        "It will throw an exception as the card estimate will breach the column's work in progress limit -----");
     iteration.moveCard(thirdCard, "InProgress");
   }
 }
